@@ -1,9 +1,6 @@
 body {
     background-color: #241954;
-
-
 }
-
 h1 {
     color: gold;
     font-size: 50px;
@@ -11,12 +8,26 @@ h1 {
     object-fit: cover;
     font-family: "Book Antiqua", sans-serif;
 }
+div.h1c{
+    font-size: 40px;
+    margin-top: 50px;
+}
+a.h1c{
+    color: lightcyan;
+}
+
+p.para {
+    font-weight: lighter;
+    width: 450px;
+}
+
 p{
     font-family: "Bookman Old Style", sans-serif;
     color: aquamarine;
     font-style: italic;
     font-weight: normal;
     border: 1px solid gold;
+    border-spacing: 1rem 0.5rem;
     padding: 0.8rem 0.5rem 0.8rem 0.5rem;
 }
 .centerClock {
